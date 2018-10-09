@@ -11,3 +11,5 @@ Mock catalogs using the CODEX effective area dA/dTexp and selection function P(\
 Cosmology should be set in "params" to be passed to Class.
 
 Set redshift "z" and the redshift bin width "zbin_width".
+
+Contributions from Matteo Costanzi and Daniel Gruen
